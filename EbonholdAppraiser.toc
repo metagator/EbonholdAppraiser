@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Ebonhold Appraiser
+## Notes: Vendor-price bag-gain tracker with goal progress bar (Dark/WoW UI modes)
+## Author: Ewbrotha
+## Version: 1.3.7
+## SavedVariables: EbonholdAppraiserDB
+
+EbonholdAppraiser.lua
